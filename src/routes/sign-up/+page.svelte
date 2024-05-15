@@ -3,5 +3,5 @@
 </script>
 
 <div class="flex w-full flex-1 items-center justify-center">
-	<SignUp redirectUrl="/dashboard" signInUrl="/signIn" />
+	<SignUp redirectUrl="/dashboard" signInUrl="/sign-in" />
 </div>
